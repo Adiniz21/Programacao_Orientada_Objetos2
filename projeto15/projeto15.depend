@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1603761475 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\projeto15\projeto15.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<iomanip>
+	"projeto15.h"
+
+1603761964 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\projeto15\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"projeto15.h"
+
+1603761964 c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\projeto15\projeto15.h
+	<iostream>
+	<string>
+	<iomanip>
+

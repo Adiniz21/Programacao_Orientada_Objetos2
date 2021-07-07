@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1602299007 source:d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto12\data.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"data.h"
+
+1602299188 d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto12\data.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1602299351 source:d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto12\empresa.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"data.h"
+	"empresa.h"
+
+1602277907 d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto12\empresa.h
+	<iostream>
+	<string>
+	<iomanip>
+	"data.h"
+
+1602299326 source:d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto12\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"empresa.h"
+

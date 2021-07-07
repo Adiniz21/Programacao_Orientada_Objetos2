@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1601681450 source:d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto11\projeto11.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"projeto11.h"
+
+1601681677 d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto11\projeto11.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1601680674 source:d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto11\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"projeto11.h"
+

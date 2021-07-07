@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1605723163 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\trabalho_final\horario.cpp
+	<iostream>
+	<iomanip>
+	"horario.h"
+
+1605721928 c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\trabalho_final\horario.h
+
+1606445884 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\trabalho_final\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"horario.h"
+	"nome_funcionario.h"
+	"base.h"
+	"comissao.h"
+
+1605722447 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\trabalho_final\nome_funcionario.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<iomanip>
+	"nome_funcionario.h"
+
+1605722338 c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\trabalho_final\nome_funcionario.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1606211745 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\trabalho_final\base.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"base.h"
+
+1606211381 c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\trabalho_final\base.h
+	<iostream>
+	<string>
+	<iomanip>
+	"comissao.h"
+
+1606212454 c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\trabalho_final\comissao.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1606211381 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\trabalho_final\comissao.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"comissao.h"
+

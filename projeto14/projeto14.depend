@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1603156397 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\projeto14\horario.cpp
+	<iostream>
+	<iomanip>
+	"horario.h"
+
+1603156061 c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\projeto14\horario.h
+
+1603156023 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\projeto14\main.cpp
+	<iostream>
+	"horario.h"
+

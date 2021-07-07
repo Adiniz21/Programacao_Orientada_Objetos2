@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1606210597 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\projeto17\comissao.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"comissao.h"
+
+1606210380 c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\projeto17\comissao.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1606210819 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\projeto17\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"comissao.h"
+	"base.h"
+
+1606210588 c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\projeto17\base.h
+	<iostream>
+	<string>
+	<iomanip>
+	"comissao.h"
+
+1606210670 source:c:\users\arthur\onedrive\fip moc\6 período\análise e programação orientada a objetos\projeto17\base.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"base.h"
+
